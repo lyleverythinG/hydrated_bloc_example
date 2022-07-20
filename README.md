@@ -8,4 +8,4 @@ Additional Info:
 - WidgetsFlutterBinding.ensureInitialized() is added first in the main.dart to avoid error because HydratedStorage.build will call native code.
 # Demo
 
-[https://user-images.githubusercontent.com/75658617/179928462-c78ae089-32ab-40b1-83ce-d9563c8c1771.mp4](https://user-images.githubusercontent.com/75658617/179928643-85980ce4-7535-4144-be14-d650651b17ad.mp4)
+https://user-images.githubusercontent.com/75658617/179929650-1f44e34e-3b17-43a5-9d34-fccc50bfca5d.mp4
